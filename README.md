@@ -28,9 +28,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌐 My interests include:
 
-Blockchain: Exploring decentralized systems, smart contracts, and cryptocurrencies.
-AI/ML: Developing intelligent algorithms and predictive models.
-Cloud Computing: Leveraging cloud architectures and scalable solutions.
+Blockchain: Exploring decentralized systems, smart contracts, and cryptocurrencies. <br>
+AI/ML: Developing intelligent algorithms and predictive models. <br>
+Cloud Computing: Leveraging cloud architectures and scalable solutions. <br>
 Web Development: Crafting dynamic web experiences with modern technologies.
 
 ### Skills
