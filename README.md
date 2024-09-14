@@ -21,7 +21,7 @@
 
 ###
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Yadav
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan<br>Yadav
 ===================================================================================================================================
 
 🔭 I’m currently working on: AI ML and Cloud Computing
