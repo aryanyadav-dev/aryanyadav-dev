@@ -109,4 +109,4 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 
 # ✨ Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
