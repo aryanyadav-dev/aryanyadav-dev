@@ -106,3 +106,7 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 <a href="http://www.github.com/AryanYadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanYadav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AryanYadav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanYadav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+# ✨ Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Alstudd&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
