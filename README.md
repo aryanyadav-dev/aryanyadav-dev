@@ -105,6 +105,8 @@ Web Development: Crafting dynamic web experiences with modern technologies.
   <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-dev&show_icons=true&theme=transparent" height="175" alt="grades"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav-dev&show_icons=true&theme=transparent"  height="175" alt="aryan" /></p>
 
+<img src = "https://github-profile-trophy.vercel.app/?username=aryanyadav-dev&theme=gruvbox" />
+
 # ✨ Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
