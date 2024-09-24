@@ -46,8 +46,7 @@ Web Development: Crafting dynamic web experiences with modern technologies.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
