@@ -113,6 +113,8 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 
 <img src = "https://github-profile-trophy.vercel.app/?username=aryanyadav-dev&theme=gruvbox" />
 
+[![An image of @aryany's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryany)](https://holopin.io/@aryany)
+
 # ✨ Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
