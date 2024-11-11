@@ -118,3 +118,7 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 # ✨ Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alstudd/Alstudd/output/github-contribution-grid-snake.svg" />
+
+![](https://komarev.com/ghpvc/?username=aryanyadav-dev&color=blue)
