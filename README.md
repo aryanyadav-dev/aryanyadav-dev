@@ -110,7 +110,7 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanyadav-dev&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-dev&show_icons=true&theme=transparent" height="175" alt="grades"/>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryanyadav-dev&theme=github_dark&hide_border=false&count_private=true&border_radius=10"
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryanyadav-dev&theme=github_dark&hide_border=false&count_private=true&border_radius=10">
 
 <img src = "https://github-profile-trophy.vercel.app/?username=aryanyadav-dev&theme=gruvbox" />
 
