@@ -119,12 +119,3 @@ Web Development: Crafting dynamic web experiences with modern technologies.
 # ✨ Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&bg_color=333333&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
-
-## Graph 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanyadav-dev/aryanyadav-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanyadav-dev/aryanyadav-dev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryanyadav-dev/aryanyadav-dev/output/pacman-contribution-graph.svg">
-</picture>
