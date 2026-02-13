@@ -89,12 +89,5 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 ---
 
 <div align="center">
-  
-### 💬 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas.  
-Feel free to reach out!
-
-**Made with ❤️ by Aryan Yadav**
-
+  <sub>Made with ❤️ by Aryan Yadav</sub>
 </div>
