@@ -86,8 +86,4 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 
 [![Holopin Badges](https://holopin.me/aryany)](https://holopin.io/@aryany)
 
----
 
-<div align="center">
-  <sub>Made with ❤️ by Aryan Yadav</sub>
-</div>
