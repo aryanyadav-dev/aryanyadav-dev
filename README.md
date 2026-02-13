@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Aryan Yadav
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2250&pause=500&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Hola;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Aryan+Yadav;"/>
+</h1>
+
+# Hey, I'm Aryan Yadav
 
 ### AI/ML Engineer | Cloud Enthusiast | Full-Stack Developer
 
@@ -14,15 +18,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm passionate about building intelligent systems and scalable solutions. Currently diving deep into:
 
-- 🤖 **AI/ML**: Developing intelligent algorithms and predictive models
-- ☁️ **Cloud Computing**: Architecting scalable cloud-native solutions
-- 🌐 **Web Development**: Creating dynamic, responsive web experiences
+- **AI/ML**: Developing intelligent algorithms and predictive models
+- **Cloud Computing**: Architecting scalable cloud-native solutions
+- **Web Development**: Creating dynamic, responsive web experiences
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -67,7 +71,7 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -78,12 +82,10 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
   <img src="https://streak-stats.demolab.com/?user=aryanyadav-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanyadav-dev&theme=tokyo-night&hide_border=true)](https://github.com/aryanyadav-dev)
 
-## 🎖️ Badges & Achievements
+## Badges & Achievements
 
 [![Holopin Badges](https://holopin.me/aryany)](https://holopin.io/@aryany)
-
-
