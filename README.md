@@ -70,18 +70,12 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanyadav-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyadav-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanyadav-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=aryanyadav-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
@@ -100,5 +94,7 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 
 I'm always open to collaborating on interesting projects or discussing new ideas.  
 Feel free to reach out!
+
+**Made with ❤️ by Aryan Yadav**
 
 </div>
