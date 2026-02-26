@@ -76,9 +76,9 @@ I'm passionate about building intelligent systems and scalable solutions. Curren
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<b>Aryan Yadav's GitHub Stats</b>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanyadav-dev&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanyadav-dev&theme=tokyonight" alt="Contribution Summary"/>
