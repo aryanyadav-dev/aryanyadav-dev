@@ -12,7 +12,7 @@
 
 # Hey, I'm Aryan Yadav
 
-### AI/ML Engineer | Cloud Enthusiast | Full-Stack Developer
+### AI Researcher
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanyadav7825@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-aryanyadav/)
@@ -23,11 +23,7 @@
 
 ## About Me
 
-I'm passionate about building intelligent systems and scalable solutions. Currently diving deep into:
-
-- **AI/ML**: Developing intelligent algorithms and predictive models
-- **Cloud Computing**: Architecting scalable cloud-native solutions
-- **Web Development**: Creating dynamic, responsive web experiences
+I'm passionate about building intelligent systems and scalable solutions. Currently I am pursuing research in AI Alignment and Safety as an independent researcher.
 
 ## Tech Stack
 
